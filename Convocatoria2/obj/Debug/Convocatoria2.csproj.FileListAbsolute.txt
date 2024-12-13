@@ -1,0 +1,11 @@
+C:\Users\jdani\source\repos\Convocatoria2\Convocatoria2\bin\Debug\Convocatoria2.exe.config
+C:\Users\jdani\source\repos\Convocatoria2\Convocatoria2\bin\Debug\Convocatoria2.exe
+C:\Users\jdani\source\repos\Convocatoria2\Convocatoria2\bin\Debug\Convocatoria2.pdb
+C:\Users\jdani\source\repos\Convocatoria2\Convocatoria2\obj\Debug\Convocatoria2.csproj.AssemblyReference.cache
+C:\Users\jdani\source\repos\Convocatoria2\Convocatoria2\obj\Debug\SistemaRegistroAlumnos.FormAgregarEditar.resources
+C:\Users\jdani\source\repos\Convocatoria2\Convocatoria2\obj\Debug\SistemaRegistroAlumnos.FormPrincipal.resources
+C:\Users\jdani\source\repos\Convocatoria2\Convocatoria2\obj\Debug\Convocatoria2.Properties.Resources.resources
+C:\Users\jdani\source\repos\Convocatoria2\Convocatoria2\obj\Debug\Convocatoria2.csproj.GenerateResource.cache
+C:\Users\jdani\source\repos\Convocatoria2\Convocatoria2\obj\Debug\Convocatoria2.csproj.CoreCompileInputs.cache
+C:\Users\jdani\source\repos\Convocatoria2\Convocatoria2\obj\Debug\Convocatoria2.exe
+C:\Users\jdani\source\repos\Convocatoria2\Convocatoria2\obj\Debug\Convocatoria2.pdb
